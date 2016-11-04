@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ukuul</title>
-    <link>http://ukuul.github.io/tags/delivery/index.xml</link>
+    <link>https://ukuul.github.io/tags/delivery/index.xml</link>
     <description>Recent content on Ukuul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://ukuul.github.io/tags/delivery/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ukuul.github.io/tags/delivery/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Terms and Conditions</title>
-      <link>http://ukuul.github.io/terms/</link>
+      <link>https://ukuul.github.io/terms/</link>
       <pubDate>Fri, 04 Nov 2016 11:24:09 +0000</pubDate>
       
-      <guid>http://ukuul.github.io/terms/</guid>
+      <guid>https://ukuul.github.io/terms/</guid>
       <description>&lt;h2&gt;Terms and Conditions&lt;/h2&gt;
 
 &lt;div&gt;
@@ -244,10 +244,10 @@
     
     <item>
       <title>Keep it simple, stupid</title>
-      <link>http://ukuul.github.io/blog/kiss/</link>
+      <link>https://ukuul.github.io/blog/kiss/</link>
       <pubDate>Thu, 03 Nov 2016 23:18:10 +0000</pubDate>
       
-      <guid>http://ukuul.github.io/blog/kiss/</guid>
+      <guid>https://ukuul.github.io/blog/kiss/</guid>
       <description></description>
     </item>
     
