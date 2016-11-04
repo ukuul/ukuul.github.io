@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ukuul</title>
-    <link>https://ukuul.github.io/index.xml</link>
+    <link>http://ukuul.github.io/index.xml</link>
     <description>Recent content on Ukuul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 Nov 2016 11:24:09 +0000</lastBuildDate>
-    <atom:link href="https://ukuul.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ukuul.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Terms and Conditions</title>
-      <link>https://ukuul.github.io/terms/</link>
+      <link>http://ukuul.github.io/terms/</link>
       <pubDate>Fri, 04 Nov 2016 11:24:09 +0000</pubDate>
       
-      <guid>https://ukuul.github.io/terms/</guid>
+      <guid>http://ukuul.github.io/terms/</guid>
       <description>&lt;h2&gt;Terms and Conditions&lt;/h2&gt;
 
 &lt;div&gt;
@@ -245,19 +245,19 @@
     
     <item>
       <title>Keep it simple, stupid</title>
-      <link>https://ukuul.github.io/blog/kiss/</link>
+      <link>http://ukuul.github.io/blog/kiss/</link>
       <pubDate>Thu, 03 Nov 2016 23:18:10 +0000</pubDate>
       
-      <guid>https://ukuul.github.io/blog/kiss/</guid>
+      <guid>http://ukuul.github.io/blog/kiss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FAQ</title>
-      <link>https://ukuul.github.io/faq/</link>
+      <link>http://ukuul.github.io/faq/</link>
       <pubDate>Sun, 30 Oct 2016 14:22:00 +0000</pubDate>
       
-      <guid>https://ukuul.github.io/faq/</guid>
+      <guid>http://ukuul.github.io/faq/</guid>
       <description>
 
 &lt;h2 id=&#34;frequently-asked-questions&#34;&gt;Frequently Asked Questions&lt;/h2&gt;
@@ -270,7 +270,7 @@
 
 &lt;p&gt;Most of Accra, including Tema and Kasoa, is under Ukuul&amp;rsquo;s coverage.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;ukuul-coverage&#34; src=&#34;https://ukuul.github.io/img/ukuul-coverage-gr.png&#34; alt=&#34;Ukuul Coverage&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;ukuul-coverage&#34; src=&#34;http://ukuul.github.io/img/ukuul-coverage-gr.png&#34; alt=&#34;Ukuul Coverage&#34;&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;when-is-ukuul-available-h2&#34;&gt;When is Ukuul available?&lt;/h2&gt;&lt;/h3&gt;
 
