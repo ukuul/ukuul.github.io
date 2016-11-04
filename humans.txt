@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Samora Dake   -- Product Owner - @samora
+    Eugene Asiedu
+
+# THANKS
+
+    Ukuul
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Golang
