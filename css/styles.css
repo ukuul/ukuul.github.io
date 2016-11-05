@@ -14,6 +14,8 @@ body {
     background-position: top center !important;
     background-repeat: no-repeat !important;
     background-attachment: fixed;
+    background-color: #031313;
+    color: white;
 }
 
 .ukuul-logo-center {
