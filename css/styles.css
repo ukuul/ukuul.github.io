@@ -10,6 +10,7 @@ body {
     background-image: url(../img/bg.jpg);
     -moz-background-size: cover;
     -webkit-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
     background-position: top center !important;
     background-repeat: no-repeat !important;
