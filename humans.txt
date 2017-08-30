@@ -3,14 +3,13 @@
 
 # TEAM
 
-    Samora Dake   -- Product Owner - @samora
-    Eugene Asiedu
+    <name> -- <role> -- <twitter>
 
 # THANKS
 
-    Ukuul
+    <name>
 
 # TECHNOLOGY COLOPHON
 
     CSS3, HTML5
-    Golang
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
